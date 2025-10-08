@@ -1,4 +1,4 @@
-![logo_quer](https://github.com/user-attachments/assets/fc552081-3d77-42e9-9a01-00029563a5c6)
+<img width="200" src="https://github.com/user-attachments/assets/fc552081-3d77-42e9-9a01-00029563a5c6"/>
 
 We develop software for Connected Digital Twins and make virtual data tangible and experiencable.
 
